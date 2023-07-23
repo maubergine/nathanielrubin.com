@@ -1,2 +1,2 @@
 # nathanielrubin.com
-Static page for baby announcement
+For the most technical of all the baby announcements.
